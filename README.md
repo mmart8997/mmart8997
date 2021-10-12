@@ -1,4 +1,7 @@
-<h1 align="left">Hi there! I'm Marlon</h1>
+<p align="center">
+  <img src="https://github.com/mmart8997/mmart8997/raw/main/assets/github.gif" alt="Hi there, I'm Marlon">
+</p>
+
 
 - 🔭 I’m currently working on **my portfolio of data science projects**
 

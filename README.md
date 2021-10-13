@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my portfolio of data science projects**
 
-- 👯 I’m looking to collaborate on **projects of data science and IA**
+- 👯 I’m looking to collaborate on **projects of data science and AI**
 
 - 💬 Ask me about **Data Science, Phyton and SQL**
 

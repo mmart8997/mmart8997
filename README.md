@@ -2,6 +2,14 @@
   <img src="https://github.com/mmart8997/mmart8997/raw/main/assets/github.gif" alt="Hi there, I'm Marlon">
 </p>
 
+<!--
+How to make the bio gif ? 
+Thanks to [matyo91](https://github.com/matyo91) and [kterra](https://github.com/kterra)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 I’m currently working on **my portfolio of data science projects**
 

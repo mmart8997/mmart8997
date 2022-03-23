@@ -15,7 +15,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 👯 I’m looking to collaborate on **projects of data science and AI**
 
-- 💬 Ask me about **Data Science, Phyton and SQL**
+- 💬 Ask me about **Data Science, Python and SQL**
 
 - 📫 How to reach me **mmart8997@gmail.com**
 

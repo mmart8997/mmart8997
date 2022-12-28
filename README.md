@@ -11,13 +11,13 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 I’m currently working on **my portfolio of data science projects**
+- I’m currently working on **my portfolio of data science projects**
 
-- 👯 I’m looking to collaborate on **projects of data science and AI**
+- I’m looking to collaborate on **projects of data science and AI**
 
-- 💬 Ask me about **Data Science, Python and SQL**
+- Ask me about **Data Science, Python and SQL**
 
-- 📫 How to reach me **mmart8997@gmail.com**
+- How to reach me **mmart8997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
